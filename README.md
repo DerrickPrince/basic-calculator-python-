@@ -24,6 +24,7 @@ def basic_calculator():
                 print(f"{num1} / {num2} = {result}")
         else:
             print("Error: Invalid operation entered.")
+
             
 
     except ValueError:
